@@ -1,0 +1,46 @@
+{
+    "links": [
+        {
+            "title_en": "Menu",
+            "title_ar": "القائمة",
+            "url": "http://127.0.0.1/res-menu/index.php?lang=en&currency=all",
+            "icon": "fas fa-utensils",
+            "color": "#e67e22"
+        },
+        {
+            "title_en": "Parking",
+            "title_ar": "موقف",
+            "url": "/res-pos/parking_request.php",
+            "icon": "fas fa-car",
+            "color": "#3498db"
+        },
+        {
+            "title_en": "WhatsApp",
+            "title_ar": "واتساب",
+            "url": "https://wa.me/1234567890",
+            "icon": "fab fa-whatsapp",
+            "color": "#25D366"
+        },
+        {
+            "title_en": "Contact",
+            "title_ar": "اتصل بنا",
+            "url": "tel:+1234567890",
+            "icon": "fas fa-phone-alt",
+            "color": "#2ecc71"
+        },
+        {
+            "title_en": "Website",
+            "title_ar": "الموقع الإلكتروني",
+            "url": "https://www.restaurant.com",
+            "icon": "fas fa-globe",
+            "color": "#9b59b6"
+        },
+        {
+            "title_en": "Instagram",
+            "title_ar": "إنستغرام",
+            "url": "https://instagram.com/yourpage",
+            "icon": "fab fa-instagram",
+            "color": "#e4405f"
+        }
+    ]
+}

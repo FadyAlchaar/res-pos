@@ -1,0 +1,100 @@
+2026-05-13 00:17:25 ===== START =====
+2026-05-13 01:17:25 Request started
+2026-05-13 01:17:25 Received data: {"table_id":185,"table_number":"Table 5","items":[{"id":29,"name":"Vegetarian Pizza","quantity":1,"notes":"","kitchen_id":3,"price":9},{"id":31,"name":"Chicken Pizza","quantity":1,"notes":"","kitchen_id":3,"price":11}]}
+2026-05-13 01:17:25 DB connected
+2026-05-13 01:17:26 Order created: 291
+2026-05-13 01:17:26 Transaction committed
+2026-05-13 01:17:31 Accountant print succeeded
+2026-05-13 01:17:31 Response sent
+2026-05-13 00:53:53 ===== START =====
+2026-05-13 01:53:53 Request started
+2026-05-13 01:53:53 Received data: {"table_id":184,"table_number":"Table 4","items":[{"id":21,"name":"Lamb Shish","quantity":1,"notes":"","kitchen_id":2,"price":16},{"id":22,"name":"Beef Steak","quantity":1,"notes":"","kitchen_id":2,"price":20},{"id":29,"name":"Vegetarian Pizza","quantity":1,"notes":"","kitchen_id":3,"price":9},{"id":28,"name":"Pepperoni Pizza","quantity":1,"notes":"","kitchen_id":3,"price":10},{"id":69,"name":"\u0627\u0631\u0643\u064a\u0644\u0629 \u062a\u0641\u0627\u062d\u062a\u064a\u0646 \u0641\u0627\u062e\u0631","quantity":1,"notes":"","kitchen_id":9,"price":10},{"id":38,"name":"\u062a\u0628\u0648\u0644\u0629","quantity":1,"notes":"","kitchen_id":4,"price":5},{"id":37,"name":"\u0628\u0627\u0628\u0627 \u063a\u0646\u0648\u062c","quantity":1,"notes":"","kitchen_id":4,"price":4.5},{"id":33,"name":"\u0641\u0648\u062a\u0634\u064a\u0646\u064a \u0623\u0644\u0641\u0631\u064a\u062f\u0648","quantity":1,"notes":"","kitchen_id":3,"price":12},{"id":17,"name":"\u0641\u064a\u0644\u064a\u0647 \u0633\u0645\u0643 \u0645\u0642\u0644\u064a","quantity":1,"notes":"","kitchen_id":1,"price":12}]}
+2026-05-13 01:53:53 DB connected
+2026-05-13 01:53:53 Order created: 292
+2026-05-13 01:53:53 Transaction committed
+2026-05-13 01:54:08 Accountant print skipped for reserved table 184
+2026-05-13 01:54:09 Response sent
+2026-05-13 00:56:49 ===== START =====
+2026-05-13 01:56:49 Request started
+2026-05-13 01:56:49 Received data: {"table_id":184,"table_number":"Table 4","items":[{"id":29,"name":"Vegetarian Pizza","quantity":1,"notes":"","kitchen_id":3,"price":9},{"id":20,"name":"Shish Tawook","quantity":1,"notes":"","kitchen_id":2,"price":12},{"id":69,"name":"\u0627\u0631\u0643\u064a\u0644\u0629 \u062a\u0641\u0627\u062d\u062a\u064a\u0646 \u0641\u0627\u062e\u0631","quantity":1,"notes":"","kitchen_id":9,"price":10},{"id":33,"name":"\u0641\u0648\u062a\u0634\u064a\u0646\u064a \u0623\u0644\u0641\u0631\u064a\u062f\u0648","quantity":1,"notes":"","kitchen_id":3,"price":12},{"id":16,"name":"\u0628\u0627\u0633\u062a\u0627 \u0628\u0627\u0644\u062c\u0645\u0628\u0631\u064a","quantity":1,"notes":"","kitchen_id":1,"price":15}]}
+2026-05-13 01:56:49 DB connected
+2026-05-13 01:56:49 Order created: 293
+2026-05-13 01:56:49 Transaction committed
+2026-05-13 01:56:59 Accountant print skipped for reserved table 184
+2026-05-13 01:57:00 Response sent
+2026-05-13 01:51:25 ===== START =====
+2026-05-13 02:51:25 Request started
+2026-05-13 02:51:25 Received data: {"table_id":184,"table_number":"Table 4","items":[{"id":21,"name":"Lamb Shish","quantity":1,"notes":"","kitchen_id":2,"price":16},{"id":22,"name":"Beef Steak","quantity":1,"notes":"","kitchen_id":2,"price":20},{"id":38,"name":"\u062a\u0628\u0648\u0644\u0629","quantity":1,"notes":"","kitchen_id":4,"price":5},{"id":28,"name":"Pepperoni Pizza","quantity":1,"notes":"","kitchen_id":3,"price":10},{"id":70,"name":"\u0627\u0631\u0643\u064a\u0644\u0629 \u062a\u0641\u0627\u062d\u062a\u064a\u0646 \u062a\u062e\u0644\u0629","quantity":1,"notes":"","kitchen_id":9,"price":10},{"id":17,"name":"\u0641\u064a\u0644\u064a\u0647 \u0633\u0645\u0643 \u0645\u0642\u0644\u064a","quantity":1,"notes":"","kitchen_id":1,"price":12},{"id":33,"name":"\u0641\u0648\u062a\u0634\u064a\u0646\u064a \u0623\u0644\u0641\u0631\u064a\u062f\u0648","quantity":1,"notes":"","kitchen_id":3,"price":12}]}
+2026-05-13 02:51:25 DB connected
+2026-05-13 02:51:25 Order created: 294
+2026-05-13 02:51:25 Transaction committed
+2026-05-13 02:51:40 Accountant print succeeded
+2026-05-13 02:51:41 Response sent
+2026-05-13 01:53:39 ===== START =====
+2026-05-13 02:53:39 Request started
+2026-05-13 02:53:39 Received data: {"table_id":184,"table_number":"Table 4","items":[{"id":29,"name":"Vegetarian Pizza","quantity":1,"notes":"","kitchen_id":3,"price":9}]}
+2026-05-13 02:53:39 DB connected
+2026-05-13 02:53:39 Order created: 295
+2026-05-13 02:53:39 Transaction committed
+2026-05-13 02:53:42 Accountant print succeeded
+2026-05-13 02:53:43 Response sent
+2026-05-13 11:41:08 ===== START =====
+2026-05-13 12:41:08 Request started
+2026-05-13 12:41:08 Received data: {"table_id":181,"table_number":"Table 1","items":[{"id":38,"name":"\u062a\u0628\u0648\u0644\u0629","quantity":1,"notes":"","kitchen_id":4,"price":5}]}
+2026-05-13 12:41:08 DB connected
+2026-05-13 12:41:08 Order created: 296
+2026-05-13 12:41:08 Transaction committed
+2026-05-13 12:41:15 Accountant print succeeded
+2026-05-13 12:41:17 Response sent
+2026-05-13 11:58:00 ===== START =====
+2026-05-13 12:58:00 Request started
+2026-05-13 12:58:00 Received data: {"table_id":181,"table_number":"Table 1","items":[{"id":17,"name":"\u0641\u064a\u0644\u064a\u0647 \u0633\u0645\u0643 \u0645\u0642\u0644\u064a","quantity":1,"notes":"","kitchen_id":1,"price":12}]}
+2026-05-13 12:58:00 DB connected
+2026-05-13 12:58:00 Order created: 297
+2026-05-13 12:58:00 Transaction committed
+2026-05-13 12:58:06 Accountant print succeeded
+2026-05-13 12:58:07 Response sent
+2026-05-25 10:21:51 ===== START =====
+2026-05-25 11:21:51 Request started
+2026-05-25 11:21:51 Received data: {"table_id":183,"table_number":"Table 3","items":[{"id":33,"name":"\u0641\u0648\u062a\u0634\u064a\u0646\u064a \u0623\u0644\u0641\u0631\u064a\u062f\u0648","quantity":1,"notes":"","kitchen_id":3,"price":12},{"id":32,"name":"\u0633\u0628\u0627\u063a\u064a\u062a\u064a \u0628\u0648\u0644\u0648\u0646\u064a\u0632","quantity":1,"notes":"","kitchen_id":3,"price":11},{"id":35,"name":"\u0644\u0627\u0632\u0627\u0646\u064a\u0627","quantity":3,"notes":"","kitchen_id":3,"price":13}]}
+2026-05-25 11:21:51 DB connected
+2026-05-25 11:21:51 Order created: 298
+2026-05-25 11:21:51 Transaction committed
+2026-05-25 11:21:56 Accountant print succeeded
+2026-05-25 11:21:57 Response sent
+2026-05-25 10:45:01 ===== START =====
+2026-05-25 11:45:01 Request started
+2026-05-25 11:45:01 Received data: {"table_id":189,"table_number":"Table 9","items":[{"id":7,"name":"\u0634\u0648\u0631\u0628\u0629 \u0637\u0645\u0627\u0637\u0645","quantity":1,"notes":"","kitchen_id":1,"price":4},{"id":8,"name":"\u0634\u0648\u0631\u0628\u0629 \u062f\u062c\u0627\u062c \u0645\u0639 \u0646\u0648\u062f\u0644\u0632","quantity":3,"notes":"","kitchen_id":1,"price":5}]}
+2026-05-25 11:45:01 DB connected
+2026-05-25 11:45:01 Order created: 299
+2026-05-25 11:45:01 Transaction committed
+2026-05-25 11:45:03 Accountant print succeeded
+2026-05-25 11:45:04 Response sent
+2026-06-01 12:09:14 ===== START =====
+2026-06-01 13:09:14 Request started
+2026-06-01 13:09:14 Received data: {"table_id":183,"table_number":"Table 3","items":[{"id":3,"name":"Spring Rolls","quantity":1,"notes":"","kitchen_id":1,"price":6}]}
+2026-06-01 13:09:14 DB connected
+2026-06-01 13:09:14 Order created: 300
+2026-06-01 13:09:14 Transaction committed
+2026-06-01 13:09:18 Accountant print succeeded
+2026-06-01 13:09:19 Response sent
+2026-06-01 12:11:06 ===== START =====
+2026-06-01 13:11:06 Request started
+2026-06-01 13:11:06 Received data: {"table_id":183,"table_number":"Table 3","items":[{"id":37,"name":"\u0628\u0627\u0628\u0627 \u063a\u0646\u0648\u062c","quantity":1,"notes":"","kitchen_id":4,"price":4.5},{"id":38,"name":"\u062a\u0628\u0648\u0644\u0629","quantity":1,"notes":"","kitchen_id":4,"price":5},{"id":8,"name":"\u0634\u0648\u0631\u0628\u0629 \u062f\u062c\u0627\u062c \u0645\u0639 \u0646\u0648\u062f\u0644\u0632","quantity":1,"notes":"","kitchen_id":1,"price":5},{"id":7,"name":"\u0634\u0648\u0631\u0628\u0629 \u0637\u0645\u0627\u0637\u0645","quantity":1,"notes":"","kitchen_id":1,"price":4}]}
+2026-06-01 13:11:06 DB connected
+2026-06-01 13:11:06 Order created: 301
+2026-06-01 13:11:06 Transaction committed
+2026-06-01 13:11:09 Accountant print succeeded
+2026-06-01 13:11:10 Response sent
+2026-06-11 11:58:08 ===== START =====
+2026-06-11 12:58:08 Request started
+2026-06-11 12:58:08 Not logged in
+2026-06-11 11:58:09 ===== START =====
+2026-06-11 12:58:09 Request started
+2026-06-11 12:58:09 Not logged in
+2026-06-11 11:58:09 ===== START =====
+2026-06-11 12:58:09 Request started
+2026-06-11 12:58:09 Not logged in
+2026-06-11 11:58:10 ===== START =====
+2026-06-11 12:58:10 Request started
+2026-06-11 12:58:10 Not logged in

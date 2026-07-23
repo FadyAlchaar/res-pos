@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mike42/escpos-php": "^2.2",
+        "mpdf/mpdf": "^8.3",
+        "bacon/bacon-qr-code": "^3.1",
+        "chillerlan/php-qrcode": "^6.0"
+    }
+}
