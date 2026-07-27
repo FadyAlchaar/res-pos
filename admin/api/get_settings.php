@@ -26,7 +26,10 @@ try {
     
     // Get all active tables for preview
     //$tables = $db->query("SELECT id, table_number, table_name, status, is_reserved, reserved_for FROM restaurant_tables WHERE is_active = 1 ORDER BY table_number LIMIT 20");
-    $tables = $db->query("SELECT id, table_number, table_name, status, is_reserved, reserved_for, customer_name FROM restaurant_tables WHERE is_active = 1 ORDER BY table_number LIMIT 20");
+    //$tables = $db->query("SELECT id, table_number, table_name, status, is_reserved, reserved_for, customer_name FROM restaurant_tables WHERE is_active = 1 ORDER BY table_number LIMIT 20");
+    
+    // this line was edited for showing the entire table in the table preview card by Fady by removing the limit 20 specifier
+    $tables = $db->query("SELECT id, table_number, table_name, status, is_reserved, reserved_for, customer_name FROM restaurant_tables WHERE is_active = 1 ORDER BY table_number"); 
     $table_list = $tables->fetchAll();
     
     // Get today's orders count

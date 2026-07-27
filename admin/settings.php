@@ -272,16 +272,16 @@ function showToast(message, type) {
     setTimeout(() => toast.remove(), 3000);
 }
 
-function openReservedModal(tableId, tableName, isReserved, reservedFor) {
+function openReservedModal(tableId, tableName, isReserved, reservedFor, customerName) {
     currentReservedTableId = tableId;
     currentReservedTableName = tableName;
     document.getElementById('reserved-table-name').innerHTML = `<strong>${escapeHtml(tableName)}</strong>`;
     document.getElementById('reserved-toggle').checked = isReserved == 1;
     document.getElementById('reserved-for').value = reservedFor || '';
+    document.getElementById('customer-name').value = customerName || '';
     const group = document.getElementById('reserved-for-group');
     group.style.display = (isReserved == 1) ? 'block' : 'none';
     document.getElementById('reserved-modal').style.display = 'flex';
-    document.getElementById('customer-name').value = customerName || '';
 }
 
 function closeReservedModal() {
