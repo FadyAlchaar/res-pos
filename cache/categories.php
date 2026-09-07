@@ -23,7 +23,7 @@
     'is_active' => 1,
     'created_at' => '2026-05-15 23:30:47',
     'kitchen_name' => 'مطبخ عام بارد والسلطات',
-    'item_count' => 5,
+    'item_count' => 6,
   ),
   2 => 
   array (
@@ -36,7 +36,7 @@
     'is_active' => 1,
     'created_at' => '2026-05-15 23:31:46',
     'kitchen_name' => 'مطبخ عام بارد والسلطات',
-    'item_count' => 10,
+    'item_count' => 9,
   ),
   3 => 
   array (
@@ -49,7 +49,7 @@
     'is_active' => 1,
     'created_at' => '2026-05-15 23:32:35',
     'kitchen_name' => 'مطبخ عام ساخن وطبخ',
-    'item_count' => 9,
+    'item_count' => 13,
   ),
   4 => 
   array (
@@ -114,7 +114,7 @@
     'is_active' => 1,
     'created_at' => '2026-05-15 23:38:14',
     'kitchen_name' => 'البار',
-    'item_count' => 3,
+    'item_count' => 4,
   ),
   9 => 
   array (
@@ -153,7 +153,7 @@
     'is_active' => 1,
     'created_at' => '2026-05-15 23:42:21',
     'kitchen_name' => 'المنقل',
-    'item_count' => 18,
+    'item_count' => 20,
   ),
   12 => 
   array (
@@ -179,6 +179,6 @@
     'is_active' => 1,
     'created_at' => '2026-05-17 22:48:51',
     'kitchen_name' => 'الفرن',
-    'item_count' => 9,
+    'item_count' => 7,
   ),
 );

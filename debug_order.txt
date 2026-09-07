@@ -98,3 +98,19 @@
 2026-06-11 11:58:10 ===== START =====
 2026-06-11 12:58:10 Request started
 2026-06-11 12:58:10 Not logged in
+2026-09-06 21:00:29 ===== START =====
+2026-09-06 22:00:29 Request started
+2026-09-06 22:00:29 Received data: {"table_id":183,"table_number":"\u0637\u0627\u0648\u0644\u0629 3","items":[{"id":494,"name":"\u0635\u062d\u0646 \u0641\u0644\u0627\u0641\u0644","quantity":4,"notes":"","kitchen_id":22,"price":25000},{"id":345,"name":"\u0633\u0648\u062f\u0647 \u062f\u062c\u0627\u062c \u0645\u0639 \u062f\u0628\u0633 \u0627\u0644\u0631\u0645\u0627\u0646","quantity":1,"notes":"","kitchen_id":22,"price":45000},{"id":360,"name":"\u0635\u064a\u0646\u064a\u0629 \u0634\u0631\u062d\u0627\u062a \u062f\u062c\u0627\u062c \u0645\u0639 \u0631\u0632","quantity":1,"notes":"","kitchen_id":22,"price":55500},{"id":343,"name":"\u0643\u0628\u0629 \u0645\u0642\u0644\u064a\u0647","quantity":3,"notes":"","kitchen_id":22,"price":10000},{"id":326,"name":"\u0633\u0644\u0637\u0647 \u0627\u0631\u0645\u0646\u064a\u0629","quantity":3,"notes":"","kitchen_id":21,"price":30000}]}
+2026-09-06 22:00:29 DB connected
+2026-09-06 22:00:29 Order created: 7818
+2026-09-06 22:00:29 Transaction committed
+2026-09-06 22:00:31 Accountant print failed
+2026-09-06 22:00:31 Response sent
+2026-09-06 21:08:59 ===== START =====
+2026-09-06 22:08:59 Request started
+2026-09-06 22:08:59 Received data: {"table_id":182,"table_number":"\u0637\u0627\u0648\u0644\u0629 2","items":[{"id":330,"name":"\u062d\u0645\u0635 \u0628\u064a\u0631\u0648\u062a\u064a","quantity":1,"notes":"","kitchen_id":21,"price":27000},{"id":336,"name":"\u0643\u0634\u0643\u0629 \u0633\u0643\u064a\u062a\u0634","quantity":1,"notes":"","kitchen_id":21,"price":28500},{"id":297,"name":"\u0645\u0639\u0633\u0644 \u0644\u0648\u0641","quantity":1,"notes":"","kitchen_id":20,"price":28000},{"id":291,"name":"\u062a\u0641\u0627\u062d\u062a\u064a\u0646 \u0646\u062e\u0644\u0647","quantity":1,"notes":"","kitchen_id":20,"price":28000}]}
+2026-09-06 22:08:59 DB connected
+2026-09-06 22:08:59 Order created: 7819
+2026-09-06 22:08:59 Transaction committed
+2026-09-06 22:09:00 Accountant print failed
+2026-09-06 22:09:01 Response sent
